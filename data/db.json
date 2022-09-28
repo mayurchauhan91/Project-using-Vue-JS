@@ -1,0 +1,7 @@
+{
+    "jobs": [
+        {"title": "Junior Software Developer", "id": 1, "details": "0 years experience."},
+        {"title": "Senior Software Developer", "id": 2, "details": "Atleast 1 year of experience."},
+        {"title": "Software Engineer", "id": 3, "details": "Atleast 5 years of experience."}
+    ]
+}
